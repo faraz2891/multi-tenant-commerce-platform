@@ -92,3 +92,4 @@ the caller's required role.
   security-event audit logging, and automated database-backed auth tests before
   enabling real customer or vendor accounts.
 - Monitor and periodically clean up expired/revoked refresh-token rows.
+- Updating Readme file to test the tag commit.
